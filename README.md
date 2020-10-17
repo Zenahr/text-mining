@@ -1,3 +1,6 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # About this repository
 
 This is just a space in which I'm casually familiarizing myself with text-mining via NLTK.
@@ -20,3 +23,4 @@ This is just a space in which I'm casually familiarizing myself with text-mining
 # Cross platform compatibility
 
 Tested on Windows only. Make sure to remove `os.system('cls')` if you encounter it while working on a linux/iOS machine.
+
