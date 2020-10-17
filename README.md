@@ -16,3 +16,7 @@ This is just a space in which I'm casually familiarizing myself with text-mining
 `src` holds all code.
 `app.py` is the program.
 `texts.py` just holds some example texts.
+
+# Cross platform compatibility
+
+Tested on Windows only. Make sure to remove `os.system('cls')` if you encounter it while working on a linux/iOS machine.
